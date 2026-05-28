@@ -1,34 +1,60 @@
-Welcome to your Expo app 👋
-This is an Expo project created with create-expo-app.
+# Welcome to your Expo app 👋
 
-Get started
-Install dependencies
+This is an Expo project created with `create-expo-app`.
 
+## Get Started
+
+### 1. Install dependencies
+
+```bash
 npm install
-Start the app
+```
 
+### 2. Start the app
+
+```bash
 npx expo start
-In the output, you'll find options to open the app in a
+```
 
-development build
-Android emulator
-iOS simulator
-Expo Go, a limited sandbox for trying out app development with Expo
-You can start developing by editing the files inside the app directory. This project uses file-based routing.
+In the output, you'll find options to open the app in:
 
-Get a fresh project
+- Development build
+- Android emulator
+- iOS simulator
+- Expo Go — a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the `app` directory.  
+This project uses **file-based routing**.
+
+---
+
+## Get a Fresh Project
+
 When you're ready, run:
 
+```bash
 npm run reset-project
-This command will move the starter code to the app-example directory and create a blank app directory where you can start developing.
+```
 
-Learn more
-To learn more about developing your project with Expo, look at the following resources:
+This command will:
 
-Expo documentation: Learn fundamentals, or go into advanced topics with our guides.
-Learn Expo tutorial: Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-Join the community
-Join our community of developers creating universal apps.
+- Move the starter code to the `app-example` directory
+- Create a blank `app` directory where you can start developing
 
-Expo on GitHub: View our open source platform and contribute.
-Discord community: Chat with Expo users and ask questions.
+---
+
+## Learn More
+
+To learn more about developing your project with Expo, check out the following resources:
+
+- **Expo Documentation** — Learn the fundamentals or explore advanced topics with detailed guides.
+- **Learn Expo Tutorial** — Follow a step-by-step tutorial to build an app for Android, iOS, and the web.
+
+---
+
+## Join the Community
+
+Join the community of developers creating universal apps.
+
+- **Expo on GitHub** — View the open-source platform and contribute.
+- **Discord Community** — Chat with Expo users and ask questions.
